@@ -11,3 +11,4 @@
 - :page_with_curl: Research Intrests: Machine Learning, Computer Vision, Natural Language Processing.
 - :joy:  Hobbies: Football :soccer: , Music :notes:
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=bhimrazy&color=green)
