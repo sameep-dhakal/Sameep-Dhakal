@@ -4,7 +4,7 @@
 **Sameep-Dhakal/Sameep-Dhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## About
-- :school: Computer Laboratory Instructor at [Advanced College of Engineering and Management](https://acem.edu.np/)
+- :school: Instructor at [Advanced College of Engineering and Management](https://acem.edu.np/)
 - :hospital: Jr Software Developer at [BP Eye Foundation - CHEERS Hospital](https://www.bpeyefoundation.org/).
 - :house: Former Fellow at [Deerhold](https://www.deerhold.org/)
 - :computer: Intrested in Machine Learning and Data Science.
