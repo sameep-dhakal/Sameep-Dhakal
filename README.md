@@ -1,7 +1,8 @@
 ## Hello there! 👋 I'm Sameep Dhakal <img src="https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/09/18085910/Monkey_Kid_Coding.gif" width="30">
 
 ### About Me
-#### Computer engineer passionate about research and analytics, with an insatiable thirst for learning. On a mission to pursue higher studies and leverage technology to create a brighter future. Working to transform education in Nepal. 🌟 #Innovation #EducationForAll 🇳🇵
+#### Computer engineer passionate about research and analytics, with an insatiable thirst for learning. On a mission to pursue higher studies and leverage technology to create a brighter future. Working to transform education in Nepal. 
+##### 🌟 #Innovation #EducationForAll 🇳🇵
 
 - 💻 Software Developer at [ProcessFeedback](https://www.processfeedback.org/)
 - 🏫 Instructor at [Advanced College of Engineering and Management](https://acem.edu.np/)
