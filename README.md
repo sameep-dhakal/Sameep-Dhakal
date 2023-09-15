@@ -1,6 +1,5 @@
-## Hello there! 👋 I'm Sameep Dhakal <img src="https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/09/18085910/Monkey_Kid_Coding.gif" width="30">
-
 ## Computer engineer passionate about research and analytics, with an insatiable thirst for learning. On a mission to pursue higher studies and leverage technology to create a brighter future. Working to transform education in Nepal. 🌟 #Innovation #EducationForAll 🇳🇵
+## Hello there! 👋 I'm Sameep Dhakal <img src="https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/09/18085910/Monkey_Kid_Coding.gif" width="30">
 
 ### About Me
 - 💻 Software Developer at [ProcessFeedback](https://www.processfeedback.org/)
