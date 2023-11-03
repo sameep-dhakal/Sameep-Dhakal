@@ -8,7 +8,7 @@
 - 🏫 Instructor at [Advanced College of Engineering and Management](https://acem.edu.np/)
 - 🏥 Former Software Engineer at [BP Eye Foundation - CHEERS Hospital](https://www.bpeyefoundation.org/)
 - 🏡 Former Fellow at [Deerhold](https://www.deerhold.org/)
-- 💻 Passionate about Machine Learning and Data Science
+- 💻 Passionate about Machine Learning, Data Science and bioinformatics
 - 📧 Email: [Sameep.dhakal721108@gmail.com](mailto:Sameep.dhakal721108@gmail.com)
 - 📚 Research Interests:
     - **Bioinformatics**:Delving into genetic sequences and employing data-driven methods to decode enigmatic biological phenomena is not only intellectually invigorating but also brims with the potential for groundbreaking advancements in the realm of healthcare.
