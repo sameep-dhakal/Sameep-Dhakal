@@ -15,11 +15,8 @@
     - **Machine Learning**:Addressing the "black-box" nature of some machine learning models is a significant research area. Making machine learning models more interpretable and transparent 
     - **Data Science**: Extracting valuable insights and knowledge from complex datasets is not only a technical challenge but also a means to revolutionize decision-making processes
 - ⚽ Hobbies: Football and Music 🎵
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Sameep-Dhakal&color=purple) (https://ko-fi.com/S6S82QDOW)
-
 ---
-![](https://komarev.com/ghpvc/?username=Sameep-Dhakal&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
+![](https://komarev.com/ghpvc/?username=Sameep-Dhakal&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/@sameeps_.svg)](https://wakatime.com/@sameeps_)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sameep-Dhakal&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameep-Dhakal&theme=tokyonight" width="50%"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameep-Dhakal&layout=compact&theme=tokyonight)](https://your-website-or-profile-link)
