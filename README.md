@@ -15,7 +15,7 @@
     - **Bioinformatics**:Delving into genetic sequences and employing data-driven methods to decode enigmatic biological phenomena is not only intellectually invigorating but also brims with the potential for groundbreaking advancements in the realm of healthcare.
     - **Machine Learning**:Addressing the "black-box" nature of some machine learning models is a significant research area. Making machine learning models more interpretable and transparent 
     - **Data Science**: Extracting valuable insights and knowledge from complex datasets is not only a technical challenge but also a means to revolutionize decision-making processes
-- ⚽ Hobbies: Football and Music 🎵
+- ⚽ Hobbies: Adventures, Football and Music 🎵
 ---
 ![](https://komarev.com/ghpvc/?username=Sameep-Dhakal&color=blueviolet)
 
