@@ -19,7 +19,7 @@
 ---
 ![](https://komarev.com/ghpvc/?username=Sameep-Dhakal&color=blueviolet) 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sameep-Dhakal&show_icons=true&theme=tokyonight" width="50%"/> <img src="https://streak-stats.demolab.com/?user=sameep-dhakal&show_icons=true&theme=tokyonight" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sameep-Dhakal&show_icons=true&theme=tokyonight" width="45%" /> <img src="https://streak-stats.demolab.com/?user=sameep-dhakal&show_icons=true&theme=tokyonight" width="45%" />
 
 
 
