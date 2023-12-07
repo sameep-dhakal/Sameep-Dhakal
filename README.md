@@ -18,6 +18,8 @@
 - ⚽ Hobbies: Adventures, Football and Music 🎵
 ---
 ![](https://komarev.com/ghpvc/?username=Sameep-Dhakal&color=blueviolet)
+<img src="https://github-readme-stats.vercel.app/api?username=Sameep-Dhakal&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameep-Dhakal&theme=tokyonight" width="50%"/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameep-Dhakal&layout=compact&theme=tokyonight)](https://your-website-or-profile-link)
 
