@@ -5,6 +5,7 @@
  **🌟 #Innovation #EducationForAll 🇳🇵**
   **[My Website](https://www.sameepdhakal.com.np/)**
   
+- 🏫 Graduate Research Assistant at [University of Missouri](https://missouri.edu/)
 - 💻 Software Developer at [ProcessFeedback](https://www.processfeedback.org/)
 - 🏫 Instructor at [Advanced College of Engineering and Management](https://acem.edu.np/)
 - 🏥 Former Software Engineer at [BP Eye Foundation - CHEERS Hospital](https://www.bpeyefoundation.org/)
